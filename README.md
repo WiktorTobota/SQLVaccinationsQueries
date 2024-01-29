@@ -39,4 +39,4 @@ This repository contains SQL queries and data analysis scripts related to global
 - Creating views named "PercentPopulationVaccinated" and "GlobalNumbersPerDay" to store and retrieve specific data sets from the "CovidDeaths" and "CovidVaccinations" tables, respectively.
 
 This repository provides a comprehensive set of SQL queries and analyses, showcasing different approaches to extract valuable insights from COVID-19 data, with a focus on population percentages, death rates, and vaccination trends across various regions.
-I'm also providing a data sets that i was working with
+I'm also providing the data sets that i was working with.
